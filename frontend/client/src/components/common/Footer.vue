@@ -7,13 +7,12 @@
             </div>
             <div>
                 <div class="font-bold">Conatct us</div>
+                <div>+251913451762</div>
                 <div>+251962247109</div>
-                <div>+251962247109</div>
-                <div>+251962247109</div>
-                <div>+251962247109</div>
+                <div></div>
             </div>
             <div class="font-bold">
-                <div>Subscribe ower New letter</div>
+                <div>Subscribe our News letter</div>
                 <div class="rounded-full w-80 h-10 bg-red-700 flex "><input type="text" class="w-48 rounded-full"><button w->subscribe</button></div>
             </div>
         </div>
